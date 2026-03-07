@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+}
+
+.links-footer{
+    display:inline-block;
+}
+
+.links-footer a{
+    text-decoration: none;
+}
