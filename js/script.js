@@ -6,7 +6,7 @@ function calcular(){
         return;
     }
 
-    let descontoSimplificado = 568.40;
+    let descontoSimplificado = 564.80;
 
     let calculobase = salario - descontoSimplificado;
     if(calculobase < 0){
